@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "sender_id": 101,
+      "receiver_id": 201,
+      "amount": 5000
+    },
+    {
+      "sender_id": 102,
+      "receiver_id": 202,
+      "amount": 10000
+    },
+    {
+      "sender_id": 103,
+      "receiver_id": 203,
+      "amount": 7500
+    }
+  ]
+}
